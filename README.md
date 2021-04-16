@@ -1,4 +1,4 @@
-# 2021 HackYou by Merge Intern: Descriptive Voice for Blind #
+# HackYou by Merge Intern: Descriptive Voice for Blind #
 Team:
 * Annie He
 * Jiyoung Yoon
